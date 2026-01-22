@@ -4,7 +4,7 @@
 ## 🗒️Project Overview
 This project focuses on **classification task** for predicting diabetes using the **Pima Indians Diabetes Dataset**. The goal is to accurately identify individuals who are likely to have diabetes, aiding early diagnosis and preventive healthcare.
 
-Hugging Face Link: 
+Hugging Face Link: [Click](https://huggingface.co/spaces/MullaRohan/diabetes_prediction)
 
 ---
 
